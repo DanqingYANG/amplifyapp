@@ -1,12 +1,5 @@
 {
-  "auth": {
-    "amplifyappa657220e": {
-      "service": "Cognito",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false
-    }
-  },
+  "auth": {},
   "api": {
     "notesapp": {
       "service": "AppSync",
